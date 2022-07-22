@@ -1,7 +1,6 @@
 ## Hi there 🤩
 
 # <center>**I'm So Dam 💕**</center>
-# <center>**welcome here**</center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=SoDam%20&fontSize=90)
 
 ## <center>**🎀 Stats 🎀**</center>
